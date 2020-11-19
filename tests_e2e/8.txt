@@ -1,0 +1,2 @@
+testing
+If the player want to go out of the gird, we treat it as hitting the wall

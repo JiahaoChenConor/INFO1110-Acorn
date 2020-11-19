@@ -1,0 +1,10 @@
+The simple configuration
+There is no water and fire and teleport
+
+Testing
+1.the player successfully reached the end
+2.testing the wait command
+3.some moves can be uppercase
+
+Attention, give a new line at the end of .out file
+each time you follow the new map, put the updated first line after the last line printed before the update
