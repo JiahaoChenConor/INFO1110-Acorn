@@ -28,5 +28,5 @@
        #  Then pick up the "shortest" way
    ```
 
-   If you have any idea, welcome to discuss.  👏
+   If you have any idea, welcome to discuss.
 
